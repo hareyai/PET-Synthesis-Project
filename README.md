@@ -1,6 +1,6 @@
 # PET-Synthesis-Project
-Masters project containing data pre-processing for the GAN synthesis of PET images from MRI scans for the purposes of Alzheimer's diagnostic, as an alternative to standard costly FDG-PET imaging
-Contains final most important files in the organizing and pre-processing of data for training
+Masters project containing data pre-processing for the GAN synthesis of PET images from MRI scans for the purposes of Alzheimer's diagnostic, as an alternative to standard costly FDG-PET imaging.
+Contains final most important files in the organizing and pre-processing of data for training, as well as additional presentation and report files.
 
 Script included:
 Text_to_CSV_ADNI_data_organization compiles all patient info from ADNI database, used to filter out data with missing labels, track distribution of patient data diversity.
